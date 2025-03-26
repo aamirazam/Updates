@@ -1,1 +1,14 @@
-Hello
+;aiu;
+
+[Update]
+Name = SDCBlackBoxServiceProject
+ProductVersion = 2.0.0
+URL = https://github.com/aamirazam/Updates/blob/main/downloads/SDCBlackBoxServiceProject.msi
+Size = 17541632
+SHA256 = EDCC13C62074C4B220BDBB66E8D3082D80A007AFC8CEEB3C4E857079C202504D
+MD5 = a87362463b33a284145d51ea689b2e34
+ServerFileName = SDCBlackBoxServiceProject.msi
+RegistryKey = HKUD\Software\Stryker-Endo\SDCBlackBoxServiceProject\Version
+Version = 2.0.0
+Description = New feature
+BugFix = Bug fixes
